@@ -1,0 +1,10 @@
+{
+
+      "name": "Jason",
+      "mobile": "8876543210",
+      "location": "Delhi",
+      "courses": [
+        "Java",
+        "Javascript"
+      ]
+}

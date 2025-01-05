@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-05T19:31:14 IST" name="Default suite" finished-at="2025-01-05T19:31:16 IST" duration-ms="2061">
+    <groups>
+    </groups>
+    <test started-at="2025-01-05T19:31:14 IST" name="Default test" finished-at="2025-01-05T19:31:16 IST" duration-ms="2061">
+      <class name="restAssuredFramework.diffWaysToCreatePostRequestBody">
+        <test-method signature="testPOSTusingExternalJSONFile()[pri:1, instance:restAssuredFramework.diffWaysToCreatePostRequestBody@72967906]" started-at="2025-01-05T19:31:14 IST" name="testPOSTusingExternalJSONFile" finished-at="2025-01-05T19:31:16 IST" duration-ms="2029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOSTusingExternalJSONFile -->
+      </class> <!-- restAssuredFramework.diffWaysToCreatePostRequestBody -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

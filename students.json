@@ -1,0 +1,194 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Anthony",
+      "mobile": "9876543210",
+      "location": "Bengaluru",
+      "courses": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mark",
+      "mobile": "9876543310",
+      "location": "Goa",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Anthony",
+      "mobile": "9876544210",
+      "location": "Hyderabad",
+      "courses": [
+        "C",
+        "Python"
+      ]
+    },
+    {
+      "id": "e739",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "name": "Ryan",
+      "mobile": "9473943471",
+      "location": "France"
+    },
+    {
+      "id": "c469",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "name": "Ryan",
+      "mobile": "9473943471",
+      "location": "France"
+    },
+    {
+      "id": "11d7",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "name": "Ryan",
+      "mobile": "9473943471",
+      "location": "France"
+    },
+    {
+      "id": "495f",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "name": "Ryan",
+      "mobile": "9473943471",
+      "location": "France"
+    },
+    {
+      "id": "55e9",
+      "courses": [
+        "Java",
+        "Python"
+      ],
+      "name": "Tyler",
+      "mobile": "9473653471",
+      "location": "Italy"
+    },
+    {
+      "id": "8f7c",
+      "name": "Billy",
+      "mobile": "9483653471",
+      "location": "Greece",
+      "courses": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "id": "fe58",
+      "students": [
+        {
+          "courses": [
+            "Java",
+            "Javascript"
+          ],
+          "name": "Jason",
+          "mobile": "8876543210",
+          "location": "Delhi",
+          "id": "1"
+        },
+        {
+          "courses": [
+            "C",
+            "GoLang"
+          ],
+          "name": "Steven",
+          "mobile": "7876543310",
+          "location": "Noida",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "id": "4d6f",
+      "students": [
+        {
+          "courses": [
+            "Java",
+            "Javascript"
+          ],
+          "name": "Jason",
+          "mobile": "8876543210",
+          "location": "Delhi",
+          "id": "1"
+        },
+        {
+          "courses": [
+            "C",
+            "GoLang"
+          ],
+          "name": "Steven",
+          "mobile": "7876543310",
+          "location": "Noida",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "id": "d5c1",
+      "courses": [
+        "Java",
+        "Javascript"
+      ],
+      "name": "Jason",
+      "mobile": "8876543210",
+      "location": "Delhi"
+    },
+    {
+      "id": "9a29",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "name": "Ryan",
+      "mobile": "9473943471",
+      "location": "France"
+    },
+    {
+      "id": "3aa2",
+      "courses": [
+        "Java",
+        "Python"
+      ],
+      "name": "Tyler",
+      "mobile": "9473653471",
+      "location": "Italy"
+    },
+    {
+      "id": "8a13",
+      "name": "Billy",
+      "mobile": "9483653471",
+      "location": "Greece",
+      "courses": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "id": "fcce",
+      "courses": [
+        "Java",
+        "Javascript"
+      ],
+      "name": "Jason",
+      "mobile": "8876543210",
+      "location": "Delhi"
+    }
+  ]
+}

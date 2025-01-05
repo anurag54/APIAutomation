@@ -1,4 +1,4 @@
-package restAssuredFramework;
+package practice_Day1;
 
 import org.testng.annotations.Test;
 
